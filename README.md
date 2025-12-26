@@ -194,3 +194,28 @@ Nushi AI is designed to automate execution and trade management but it does not 
 
 ### Where can I learn more about Nushi AI
 Traders and researchers looking for additional background technical details or access information typically begin with the [official Nushi AI website](https://nushi.ai) or explore system specific information through the [Nushi AI EA bot platform](https://ea-bots.com/?utm_campaign=gh1).
+
+
+---
+
+## Independent Coverage and Further Reading
+
+For readers interested in independent third party coverage and deeper context around Nushi AI, the following articles provide additional perspectives on the platform, its development history, and its approach to algorithmic trading systems:
+
+- **Why Nushi AI Builds Trading Systems Like Infrastructure Not Short Term Strategies**  
+  An in depth look at Nushi AI system design philosophy and long term infrastructure focused approach as covered by Programming Insider  
+  [Read the article on Programming Insider](https://programminginsider.com/why-nushi-ai-builds-trading-systems-like-infrastructure-not-short-term-strategies/)
+
+- **Nushi AI Three Year Journey From Private Research to Verified Public Systems**  
+  Coverage of Nushi AI evolution from internal research to publicly verified algorithmic trading systems published by TechBullion  
+  [Read the article on TechBullion](https://techbullion.com/nushi-ais-three-year-journey-in-algorithmic-trading-from-private-research-to-verified-public-systems/)
+
+- **Nushi AI Expands Algorithmic Trading Capabilities Across Forex Gold and Bitcoin**  
+  Press release coverage highlighting Nushi AI multi asset expansion as reported by Street Insider  
+  [Read the article on Street Insider](https://www.streetinsider.com/Press+Releases/Nushi+AI+Expands+Algorithmic+Trading+Capabilities+Across+Forex%2C+Gold%2C+and+Bitcoin/25779625.html)
+
+- **Nushi AI Algorithmic Trading Overview and Market Expansion**  
+  News coverage discussing Nushi AI algorithmic trading platform and market presence as published by MEXC News  
+  [Read the article on MEXC](https://www.mexc.co/en-GB/news/349999)
+
+These articles are provided for informational purposes and reflect external editorial or news coverage of Nushi AI rather than internal documentation.
